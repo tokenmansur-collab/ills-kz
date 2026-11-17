@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://tokenmansur-collab.github.io/ills-kz/sitemap.xml
